@@ -6,6 +6,7 @@
 - Spring Data JPA
 - Lombok
 - Gradle 5
+- H2 In-Memory DB
 
 ## 빌드 및 실행 방법
 
